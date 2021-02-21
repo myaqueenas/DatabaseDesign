@@ -2,7 +2,7 @@
 ## A conceptual model of data used by Cars-4-U sales staff, A logical model for a future relational database
 ### Youngjin Noh
 
-#### 1. Introduction
+### 1. Introduction
 
 Imagine a fictitious car sales company called Cars-4-U has approached you wanting a database to support their showroom staff. To begin with, they require a very short report containing just:
  
